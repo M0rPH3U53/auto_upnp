@@ -1,3 +1,5 @@
+#!/bin/bash
+
 msf_upnp () {
 
     echo "Port defaut: 1900,5000-5001,2869"
