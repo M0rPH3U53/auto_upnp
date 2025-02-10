@@ -1,10 +1,6 @@
 #!/bin/bash
 
 BLEU='\e[34m'
-ROUGE='\033[0;31m'
-VERT='\033[0;32m'
-GRIS='\033[0;37m'
-JAUNE='\e[0;33m'
 RESET='\033[0m'
 BLANC='\033[1;37m'
 
